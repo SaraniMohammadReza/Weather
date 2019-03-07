@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary1">#E2D48D</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Google Logo Color -->
+    <color name="google_blue">#4285F4</color>
+    <color name="google_green">#34A853</color>
+    <color name="google_yellow">#FBBC05</color>
+    <color name="google_red">#EA4335</color>
+    <color name="main_background">#003661</color>
+    <color name="main_background_stroke">#4E4E4E</color>
+    <color name="weather_Card_background">#F2000C20</color>
+    <color name="weather_Card_background1">#80000C20</color>
+    <color name="wethaer_stroke_background">#CCA5A5A5</color>
+    <color name="fortext">#00E6FF</color>
+
+
+</resources>
+
+
